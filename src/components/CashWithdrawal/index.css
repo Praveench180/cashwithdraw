@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg {
+  background-color: #c7d2fe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container {
+  background-color: #150b3e;
+  border-radius: 5px;
+  color: #c7d2fe;
+  padding: 10px;
+  font-family: 'Roboto';
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.heading {
+  height: 100px;
+  width: 100px;
+  background-color: #c7d2fe;
+  border-radius: 50px;
+  color: black;
+}
+.name {
+  font-size: 25px;
+}
+.Balance {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
